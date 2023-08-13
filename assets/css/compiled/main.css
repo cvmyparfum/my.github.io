@@ -1297,7 +1297,7 @@ video {
 }
 
 .rounded-full {
-  border-radius: 9999px;
+  border-radius: 10px;
 }
 
 .rounded {
@@ -1315,6 +1315,7 @@ video {
 }
 
 .py-10 {
+  visibility: hidden;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
