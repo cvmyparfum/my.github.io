@@ -8,7 +8,7 @@ copyright = "Copy, _right?_ :thinking_face:"
 [author]
   name = "My Parfum"
   headline = "Parfum Terbaik Untuk Kebutuhan Anda"
-  image = "author.jpg"
+  image = "my.png"
   links = [
    { tiktok = "https://tiktok.com/@username" },
    { whatsapp = "https://wa.me/phone-number" },
