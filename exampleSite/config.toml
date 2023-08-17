@@ -12,13 +12,13 @@ copyright = "Copy, _right?_ :thinking_face:"
   links = [
    { tiktok = "https://www.tiktok.com/@my.parfumjkt" },
    { whatsapp = "https://wa.me/6285888882180" },
-   { link = "https://shopee.co.id/my.parfumjkt/"},
-   { link = { href = "https://shopee.co.id/my.parfumjkt/", text = "GitHub alink" } },
+   #{ link = "https://shopee.co.id/my.parfumjkt/"},
+   { link = { href = "https://shopee.co.id/my.parfumjkt/", text = "Shoope" } },
    { instagram = "https://instagram.com/myparfumjkt" },
    #{ telegram = "https://t.me/username" },
    #{ facebook = "https://facebook.com/username" },
    { email = "mailto:cvmyparfum@gmail.com" },
-   { github = { href = "https://github.com/jpanther/lynx", text = "GitHub" } }
+   #{ github = { href = "https://github.com/jpanther/lynx", text = "GitHub" } }
   ]
 
 [markup.highlight]
